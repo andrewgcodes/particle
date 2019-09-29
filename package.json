@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "gulp"
+    "build": "next build && next export",
   },
   "author": "Nathan Randecker",
   "license": "ISC",
